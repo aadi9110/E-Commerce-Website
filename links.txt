@@ -1,0 +1,14 @@
+BOOTSTRAP:
+https://getbootstrap.com/docs/4.5/getting-started/introduction
+
+FONTAWESOME
+https://fontawesome.cpm/icons
+
+FOR IMAGES
+https://source.unsplash.com/
+
+FOR GRADIENTS
+https://cssgradient.io/gradient-backgrounds/
+
+FONTAWESOME CDN
+https://cdnjs.com/libraries/font-awesome/5.10.0
